@@ -557,7 +557,7 @@ export default function Projects() {
             active={tActive}
             setActive={setTActive}
             accentColor="#0d9488"
-            cta={{ label: "View Live", url: "https://tnj.vercel.app" }}
+            cta={{ label: "View Live", url: "https://tnj-motorshop.vercel.app" }}
           />
         </div>
 
